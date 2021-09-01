@@ -1,7 +1,7 @@
 # **Desafios do Bootcamp Carrefour Android Developer**
 
 <p align="center">
-  <img src="https://github.com/williamfernands/coin-converter/blob/main/carrefour.jpg?raw=true" />
+  <img src="" />
 </p>
 
 ## Criando um aplicativo para conversão de moedas e câmbio com Kotlin.
