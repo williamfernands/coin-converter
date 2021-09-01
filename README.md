@@ -1,4 +1,9 @@
-# coin-converter
+# **Desafios do Bootcamp Carrefour Android Developer**
+
+<p align="center">
+  <img src="" />
+</p>
+
 ## Criando um aplicativo para conversão de moedas e câmbio com Kotlin.
 
 O curso pode ser acessado na plataforma da [Digital Innovation One](https://digitalinnovation.one/).
