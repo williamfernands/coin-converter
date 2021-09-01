@@ -1,7 +1,6 @@
 # coin-converter
-## Criando um aplicativo para conversão de moedas e câmbio
+## Criando um aplicativo para conversão de moedas e câmbio com Kotlin.
 
-### LAB - Criando um app de conversor moedas/cambio com Kotlin.
 O curso pode ser acessado na plataforma da [Digital Innovation One](https://digitalinnovation.one/).
 
 O objetivo deste projeto é criar um App de conversão de moedas/câmbio, passando por todo o processo de desenvolvimento usando o Kotlin. Para isso, vamos consumir uma API pública usando as principais bibliotecas e padrões de projeto do Kotlin.
